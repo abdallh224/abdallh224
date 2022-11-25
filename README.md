@@ -21,6 +21,26 @@ In this moment we have +130 client from many busnesses , with team consists of 5
 
 </ul>
 
+<h2> 💬 how to find me ?</h2>
+
+You can contact me via :
+
+<ul>
+ <li>
+  <a href="https://www.facebook.com/a.allh123">
+     <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1">     <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+     </svg>facebook
+  </a>
+ </li>
+ <li><a href="https://www.linkedin.com/in/abdallahosama/">linkedin</a></li>
+ <li><a href="">website</a></li>
+ <li><a href="https://mostaql.com/u/a_allh">mostaql</a></li>
+ <li><a href="tel:00201019654321">📞 (+20) 1019654321</a></li>
+ 
+</ul>
+
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+
 <!--
 **abdallh224/abdallh224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
