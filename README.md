@@ -34,7 +34,7 @@ You can contact me via :
  </li>
  <li>
   <a href="https://www.linkedin.com/in/abdallahosama/">
-   <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png" width="20" height="20" >
+   <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png" width="20" height="20" style="filter: invert(1);">
    linkedin
   </a>
  </li>
