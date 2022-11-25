@@ -20,7 +20,7 @@ In this moment we have +130 client from many busnesses , with team consists of 5
  <li>if you need E-commerce system desigend spicialy to your busness.</li>
 </ul>
 
-<h2> 💬 how to find me ?</h2>
+<h2> 📫 how to find me ?</h2>
 
 You can contact me via :
 
