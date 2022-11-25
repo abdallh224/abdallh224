@@ -44,7 +44,12 @@ You can contact me via :
    website
   </a>
  </li>
- <li><a href="https://mostaql.com/u/a_allh">mostaql</a></li>
+ <li>
+ <a href="https://mostaql.com/u/a_allh">
+   <img src="/mostaql.png" width="20" height="20" >
+   mostaql
+ </a>
+ </li>
  <li>
   <a href="#">
    <img src="/mobile.png" width="20" height="20" >
