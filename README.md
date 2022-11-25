@@ -13,11 +13,11 @@ In this moment we have +130 client from many busnesses , with team consists of 5
 
 <ul>
  
- <li>if you have large project that needs spicial skills.</li>
+ <li>if you have large project that needs special skills.</li>
  <li>if you are searching for a full-satack developer with great skills.</li>
  <li>if you need someone to solve urgent and large problem.</li>
- <li>if you need ERP system desigend spicialy to your busness.</li>
- <li>if you need E-commerce system desigend spicialy to your busness.</li>
+ <li>if you need ERP system desigend specialy to your busness.</li>
+ <li>if you need E-commerce system desigend specialy  to your busness.</li>
 </ul>
 
 <h2> 📫 how to find me ?</h2>
@@ -64,4 +64,4 @@ You can contact me via :
  
 </ul>
 
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+You can ask me anything . I am looking forward to absorb knowledge,gain experience , collaborate and build amazing products for the world!
