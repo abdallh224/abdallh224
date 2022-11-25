@@ -28,19 +28,29 @@ You can contact me via :
 <ul>
  <li>
   <a href="https://www.facebook.com/a.allh123">
-   <img src="/facebook.png" width="20" height="20" >
+   <img src="/facebook.png" width="25" height="25" >
    facebook
   </a>
  </li>
  <li>
   <a href="https://www.linkedin.com/in/abdallahosama/">
-   <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png" width="20" height="20" style="filter: invert(1);">
+   <img src="/linkedin.png" width="25" height="25">
    linkedin
   </a>
  </li>
- <li><a href="">website</a></li>
+ <li>
+  <a href="">
+   <img src="/website.png" width="25" height="25" >
+   website
+  </a>
+ </li>
  <li><a href="https://mostaql.com/u/a_allh">mostaql</a></li>
- <li><a href="tel:00201019654321">📞 (+20) 1019654321</a></li>
+ <li>
+  <a href="tel:00201019654321">
+   <img src="/phone.png" width="25" height="25" >
+   (+20) 1019654321
+  </a>
+ </li>
  
 </ul>
 
