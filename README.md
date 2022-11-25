@@ -32,7 +32,12 @@ You can contact me via :
    facebook
   </a>
  </li>
- <li><a href="https://www.linkedin.com/in/abdallahosama/">linkedin</a></li>
+ <li>
+  <a href="https://www.linkedin.com/in/abdallahosama/">
+   <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="20" height="20" >
+   linkedin
+  </a>
+ </li>
  <li><a href="">website</a></li>
  <li><a href="https://mostaql.com/u/a_allh">mostaql</a></li>
  <li><a href="tel:00201019654321">📞 (+20) 1019654321</a></li>
