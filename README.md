@@ -6,7 +6,7 @@ MY name is abdallah osama <strong>full-satack</strong> developer skilled  in Php
 <h2>what is Pioneer ? </h2>
 
 Pioneer is ERP system pased on PHP, LARAVEL and VUE JS that Designed specifically to help companies to manage there work efictivly and easly, we started in oct, 2020 with basic accounting system , now we work in manifactoring , hr, projects, and many more.
-In this moment we have +130 client from many busnesses , with team consists of 5 members works in defrent fealds.
+In this moment we have +130 client from many Businesses , with team consists of 5 members works in defrent fealds.
 
 
 <h2> 💬 when its must to contact me ?</h2>
@@ -14,10 +14,10 @@ In this moment we have +130 client from many busnesses , with team consists of 5
 <ul>
  
  <li>if you have large project that needs special skills.</li>
- <li>if you are searching for a full-satack developer with great skills.</li>
+ <li>if you are searching for a full-stack developer with great skills.</li>
  <li>if you need someone to solve urgent and large problem.</li>
- <li>if you need ERP system desigend specialy to your busness.</li>
- <li>if you need E-commerce system desigend specialy  to your busness.</li>
+ <li>if you need ERP system desigend specially  to your busness.</li>
+ <li>if you need E-commerce system desigend specially to your business.</li>
 </ul>
 
 <h2> 📫 how to find me ?</h2>
