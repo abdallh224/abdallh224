@@ -28,7 +28,7 @@ You can contact me via :
 <ul>
  <li>
   <a href="https://www.facebook.com/a.allh123">
-   <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="20" height="20" >
+   <img src="/facebook.png" width="20" height="20" >
    facebook
   </a>
  </li>
