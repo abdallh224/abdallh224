@@ -46,7 +46,7 @@ You can contact me via :
  </li>
  <li><a href="https://mostaql.com/u/a_allh">mostaql</a></li>
  <li>
-  <a href="tel:00201019654321">
+  <a href="#">
    <img src="/mobile.png" width="20" height="20" >
    (+20) 1019654321
   </a>
