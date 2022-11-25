@@ -7,9 +7,19 @@ I started working in 2018 and specialized in e-commerce sites for a while, then 
 <h2>what is Pioneer ? </h2>
 
 Pioneer is ERP system pased on PHP, LARAVEL and VUE JS that Designed specifically to help companies to manage there work efictivly and easly, we started in oct, 2020 with basic accounting system , now we work in manifactoring , hr, projects, and many more.
-In this moment we have +130 clint from many busnessses , with team consists of 5 members works in defrent fealds.
+In this moment we have +130 client from many busnesses , with team consists of 5 members works in defrent fealds.
 
 
+<h2> 💬 when its must to contact me ?</h2>
+
+<ul>
+ 
+ <li>if you need ERP system desigend spicialy to your busness</li>
+ <li>if you are searching for a full-satack developer with great skills</li>
+ <li>if you need someone to solve urgent problem</li>
+ <li>if you have too big project that needs spicial skills</li>
+
+</ul>
 
 <!--
 **abdallh224/abdallh224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
