@@ -26,22 +26,16 @@ In this moment we have +130 client from many busnesses , with team consists of 5
 You can contact me via :
 
 <ul>
- <li>
-  <a href="https://www.facebook.com/a.allh123">
-   <img src="/facebook.png" width="20" height="20" >
-   facebook
-  </a>
- </li>
+  <li>
+   <a href="">
+    <img src="/website.png" width="20" height="20" >
+    website
+   </a>
+  </li>
  <li>
   <a href="https://www.linkedin.com/in/abdallahosama/">
    <img src="/linkedin.png" width="20" height="20">
    linkedin
-  </a>
- </li>
- <li>
-  <a href="">
-   <img src="/website.png" width="20" height="20" >
-   website
   </a>
  </li>
  <li>
@@ -51,9 +45,21 @@ You can contact me via :
  </a>
  </li>
  <li>
+  <a href="https://wa.me/01019654321">
+   <img src="/whatsapp.png" width="20" height="20" >
+   whatsapp
+  </a>
+ </li>
+ <li>
   <a href="#">
    <img src="/mobile.png" width="20" height="20" >
    (+20) 1019654321
+  </a>
+ </li>
+ <li>
+  <a href="https://www.facebook.com/a.allh123">
+   <img src="/facebook.png" width="20" height="20" >
+   facebook
   </a>
  </li>
  
