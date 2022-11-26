@@ -1,12 +1,11 @@
  <h1>Hi there 👋</h1>
 
-MY name is abdallah osama <strong>full-satack</strong> developer skilled  in Php, javascript, c++, laravel, vue.j and react interested in  management systems, accounting systems, data analysis and reporting. I started working in 2018 and specialized in e-commerce sites for a while, then I started working on ERP systems starting from 2020 until now and until  I work on my own system directed to serve companies and commercial establishments "Pioneere".
+MY name is abdallah osama full-stack developer skilled in Php, javascript, c++, laravel, vue.j and react interested in management systems, accounting systems, data analysis and reporting. I started working in 2018 and specialized in e-commerce sites for a while, then I started working on ERP systems starting from 2020 until now and until I work on my own system directed to serve companies and commercial establishments "Pioneer".
 
 
 <h2>what is Pioneer ? </h2>
 
-Pioneer is ERP system pased on PHP, LARAVEL and VUE JS that Designed specifically to help companies to manage there work efictivly and easly, we started in oct, 2020 with basic accounting system , now we work in manifactoring , hr, projects, and many more.
-In this moment we have +130 client from many Businesses , with team consists of 5 members works in defrent fealds.
+Pioneer is ERP system based on PHP, LARAVEL and VUE JS that Designed specifically to help companies to manage there work effectively and easily, we started in oct, 2020 with basic accounting system , now we work in manufacturing , hr, projects, and many more. In this moment we have +130 client from many Businesses , with team consists of 5 members works in deferent fields.
 
 
 <h2> 💬 when its must to contact me ?</h2>
@@ -16,8 +15,8 @@ In this moment we have +130 client from many Businesses , with team consists of 
  <li>if you have large project that needs special skills.</li>
  <li>if you are searching for a full-stack developer with great skills.</li>
  <li>if you need someone to solve urgent and large problem.</li>
- <li>if you need ERP system desigend specially  to your busness.</li>
- <li>if you need E-commerce system desigend specially to your business.</li>
+ <li>if you need ERP system designed  specially  to your busness.</li>
+ <li>if you need E-commerce system designed  specially to your business.</li>
 </ul>
 
 <h2> 📫 how to find me ?</h2>
