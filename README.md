@@ -1,6 +1,6 @@
  <h1>Hi there 👋</h1>
 
-MY name is abdallah osama full-stack developer skilled in Php, javascript, c++, laravel, vue.j and react interested in management systems, accounting systems, data analysis and reporting. I started working in 2018 and specialized in e-commerce sites for a while, then I started working on ERP systems starting from 2020 until now and until I work on my own system directed to serve companies and commercial establishments "Pioneer".
+MY name is abdallah osama full-stack developer skilled in Php, javascript, c#, laravel, vue.j and react interested in management systems, accounting systems, data analysis and reporting. I started working in 2018 and specialized in e-commerce sites for a while, then I started working on ERP systems starting from 2020 until now and until I work on my own system directed to serve companies and commercial establishments "Pioneer".
 
 
 <h2>what is Pioneer ? </h2>
