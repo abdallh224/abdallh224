@@ -16,48 +16,40 @@ Pioneer is ERP system based on PHP, LARAVEL and VUE JS that Designed specificall
  - if you need ERP system designed  specially  to your busness.
  - if you need E-commerce system designed  specially to your business.
 
-<h2> 📫 how to find me ?</h2>
+## 📫 how to find me ?
 
 You can contact me via :
 
-<ul>
-  <li>
-   <a href="https://abdllahosama.github.io" target="_blank">
+
+
+- <a href="https://abdllahosama.github.io" target="_blank">
     <img src="/website.png" width="20" height="20" >
     website
    </a>
-  </li>
- <li>
-  <a href="https://www.linkedin.com/in/abdallahosama/" target="_blank">
+
+-  <a href="https://www.linkedin.com/in/abdallahosama/" target="_blank">
    <img src="/linkedin.png" width="20" height="20">
    linkedin
   </a>
- </li>
- <li>
- <a href="https://mostaql.com/u/a_allh" target="_blank">
+
+- <a href="https://mostaql.com/u/a_allh" target="_blank">
    <img src="/mostaql.png" width="20" height="20" >
    mostaql
  </a>
- </li>
- <li>
-  <a href="https://wa.me/01019654321" target="_blank">
+
+- <a href="https://wa.me/01019654321" target="_blank">
    <img src="/whatsapp.png" width="20" height="20" >
    whatsapp
   </a>
- </li>
- <li>
-  <a href="#">
+
+- <a href="#">
    <img src="/mobile.png" width="20" height="20" >
    (+20) 1019654321
   </a>
- </li>
- <li>
-  <a href="https://www.facebook.com/a.allh123"  target="_blank">
+
+-  <a href="https://www.facebook.com/a.allh123"  target="_blank">
    <img src="/facebook.png" width="20" height="20" >
    facebook
   </a>
- </li>
- 
-</ul>
 
 You can ask me anything . I am looking forward to absorb knowledge,gain experience , collaborate and build amazing products for the world!
