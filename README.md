@@ -19,34 +19,11 @@ Pioneer is ERP system based on PHP, LARAVEL and VUE JS that Designed specificall
 ## 📫 how to find me ?
 
 You can contact me via :
-
-
-
-- [<img src="/website.png" width="20" height="20" > website](https://abdllahosama.github.io)
-
--  <a href="https://www.linkedin.com/in/abdallahosama/" target="_blank">
-   <img src="/linkedin.png" width="20" height="20">
-   linkedin
-  </a>
-
-- <a href="https://mostaql.com/u/a_allh" target="_blank">
-   <img src="/mostaql.png" width="20" height="20" >
-   mostaql
- </a>
-
-- <a href="https://wa.me/01019654321" target="_blank">
-   <img src="/whatsapp.png" width="20" height="20" >
-   whatsapp
-  </a>
-
-- <a href="#">
-   <img src="/mobile.png" width="20" height="20" >
-   (+20) 1019654321
-  </a>
-
--  <a href="https://www.facebook.com/a.allh123"  target="_blank">
-   <img src="/facebook.png" width="20" height="20" >
-   facebook
-  </a>
+- [<img src="/website.png" width="20" height="20"> website](https://abdllahosama.github.io)
+- [<img src="/linkedin.png" width="20" height="20"> linkedin](https://www.linkedin.com/in/abdallahosama/)
+- [<img src="/mostaql.png" width="20" height="20">  mostaql](https://mostaql.com/u/a_allh)
+- [<img src="/whatsapp.png" width="20" height="20"> whatsapp](https://wa.me/01019654321)
+- [<img src="/mobile.png" width="20" height="20">(+20) 1019654321]
+- [<img src="/facebook.png" width="20" height="20" > facebook](https://www.facebook.com/a.allh123)
 
 You can ask me anything . I am looking forward to absorb knowledge,gain experience , collaborate and build amazing products for the world!
