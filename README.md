@@ -22,10 +22,7 @@ You can contact me via :
 
 
 
-- <a href="https://abdllahosama.github.io" target="_blank">
-    <img src="/website.png" width="20" height="20" >
-    website
-   </a>
+- [<img src="/website.png" width="20" height="20" > website](https://abdllahosama.github.io)
 
 -  <a href="https://www.linkedin.com/in/abdallahosama/" target="_blank">
    <img src="/linkedin.png" width="20" height="20">
